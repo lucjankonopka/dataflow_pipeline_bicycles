@@ -14,7 +14,7 @@ The project was done as part of the coding challenge. The goal was to perform da
 4. Running the script to initialize the dataflow pipeline
 5. Review the data
 
-## Python script & pipeline dependencies
+## Source code: python script & pipeline dependencies
 
 [*rides_counter.py*](https://github.com/lucjankonopka/dataflow_pipeline_bicycles/blob/main/rides_counter.py)
 
