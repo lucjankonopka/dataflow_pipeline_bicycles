@@ -17,6 +17,7 @@ The project was done as part of the coding challenge. The goal was to perform da
 ## Python script & pipeline dependencies
 
 [*rides_counter.py*](https://github.com/lucjankonopka/dataflow_pipeline_bicycles/blob/main/rides_counter.py)
+
 [*setup.py*](https://github.com/lucjankonopka/dataflow_pipeline_bicycles/blob/main/setup.py)
 
 ## Output
