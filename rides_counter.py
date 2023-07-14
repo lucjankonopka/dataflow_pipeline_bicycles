@@ -4,7 +4,6 @@ from datetime import datetime
 import apache_beam as beam
 from apache_beam.options.pipeline_options import PipelineOptions
 
-
 parser = argparse.ArgumentParser()
 args, beam_args = parser.parse_known_args()
 
